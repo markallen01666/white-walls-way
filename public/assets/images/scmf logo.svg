@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="117.26685mm"
+   height="59.625748mm"
+   viewBox="0 0 117.26685 59.625748"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="scmf logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="427.09869"
+     inkscape:cy="190.98993"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid22"
+       originx="-30.942328"
+       originy="-198.15401" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.94233,-39.220236)">
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke-width:0.3116293"
+       id="rect24"
+       width="117.26685"
+       height="59.625748"
+       x="30.942329"
+       y="39.220234" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.34475642"
+       id="rect26"
+       width="110.94871"
+       height="53.99247"
+       x="34.668358"
+       y="42.414848" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.19487762px;line-height:0.75;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.35487196"
+       x="89.498795"
+       y="72.764404"
+       id="text20"><tspan
+         sodipodi:role="line"
+         x="89.498795"
+         y="72.764404"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.74073505px;line-height:0.75;font-family:Kinnari;-inkscape-font-specification:'Kinnari Bold Italic';text-align:center;text-anchor:middle;fill:#4d4d4d;stroke-width:0.35487196"
+         id="tspan71">Steve Cox Mayoral Fund</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="117.26685mm"
+   height="59.625748mm"
+   viewBox="0 0 117.26685 59.625748"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mvcap logo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="283.05261"
+     inkscape:cy="190.98993"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid22"
+       originx="-30.942328"
+       originy="-198.15401" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.94233,-39.220236)">
+    <g
+       id="g41">
+      <g
+         transform="matrix(1.1080333,0,0,1.2519842,-10.101072,-14.615085)"
+         id="g30">
+        <rect
+           style="fill:#008000;fill-opacity:1;stroke-width:0.26458332"
+           id="rect24"
+           width="105.83333"
+           height="47.625"
+           x="37.041668"
+           y="43" />
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+           id="rect26"
+           width="95.25"
+           height="37.041668"
+           x="42.333332"
+           y="48.291664" />
+      </g>
+      <text
+         id="text12"
+         y="64.771431"
+         x="90.00322"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:0.75;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="line-height:0.75;stroke-width:0.26458332"
+           y="71.489365"
+           x="90.00322"
+           id="tspan10"
+           sodipodi:role="line" /><tspan
+           id="tspan14"
+           style="font-size:5.64444447px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="79.426865"
+           x="90.00322"
+           sodipodi:role="line">Registered charity #1155592</tspan><tspan
+           id="tspan16"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444447px;line-height:0.75;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#008000;stroke-width:0.26458332"
+           y="87.364365"
+           x="90.00322"
+           sodipodi:role="line">mvcap.org.uk</tspan></text>
+      <text
+         id="text20"
+         y="70.195862"
+         x="40.855633"
+         style="font-style:normal;font-weight:normal;font-size:18.3330574px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.45832646"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.44407845px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000;stroke-width:0.45832646"
+           y="70.195862"
+           x="40.855633"
+           id="tspan18"
+           sodipodi:role="line">MVCAP</tspan></text>
+    </g>
+  </g>
+</svg>
