@@ -5,4 +5,5 @@ This website describes a twenty-mile circular walking trail developed by the Mal
 
 Pages are written using the Materialize CSS framework and hosted on Google Firebase. 
 
+
 Link: ***https://whitewallsway.org***
